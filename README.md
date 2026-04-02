@@ -72,3 +72,13 @@ Enables granular analysis of product profitability.
 Quarter Filter (Q1–Q4): Allows users to analyze performance for specific quarters.
 State Filter: Enables region-specific insights.
 Interactive visuals allow users to drill down and explore data dynamically.
+
+# Key Insights
+Certain months show negative profit, indicating potential cost or pricing issues.
+COD is the most preferred payment method.
+Clothing is the highest-selling category by quantity.
+A small group of customers contributes significantly to revenue.
+Some sub-categories drive the majority of profit.
+
+# Conclusion
+This dashboard provides a comprehensive view of sales performance by combining high-level KPIs with detailed breakdowns. It empowers businesses to quickly identify trends, optimize operations, and make informed strategic decisions.
